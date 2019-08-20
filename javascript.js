@@ -5,4 +5,10 @@ var call = async function() {
 
 }
 
+var newnote = document.getElementById("newnotebutton");
+var newnoteform = document.getElementById('form-container');
+newnote.addEventListener('click', function() {
+    newnoteform.classList.toggle('hidden');
+})
+
 call();

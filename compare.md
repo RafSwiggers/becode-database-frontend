@@ -1,0 +1,1 @@
+[What she said](https://github.com/PanaddaManarata/frontend-extend-the-api/blob/master/compare.md)
